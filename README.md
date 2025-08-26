@@ -96,5 +96,5 @@
 <br>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=using2&langs_count=5&layout=compact)](https://github.com/using2)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=using2&langs_count=5)](https://github.com/using2)
 </div>
