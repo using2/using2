@@ -114,4 +114,15 @@
   </a>
 </div>
 
+<br>
+
+<h3>📊 Algorithm</h3>
+<div align="center">
+  <a href="https://solved.ac/rkddbwls/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rkddbwls" alt="Solved.ac Profile" />
+  </a>
+</div>
+
+</div>
+
 </div>
