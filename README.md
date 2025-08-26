@@ -3,7 +3,6 @@
 <h1>🚀 &nbsp;  강유진 &nbsp; | &nbsp; Frontend Developer </h1>
 
 <h3><b>💻 Tech Stack</b></h3>
-
 <a ef="https://react.dev/" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </a>
@@ -16,9 +15,7 @@
 <a ef="https://vitejs.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </a>
-
 <br>
-
 <a ef="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </a>
@@ -31,9 +28,7 @@
 <a ef="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </a>
-
 <br>
-
 <a ef="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </a>
@@ -45,7 +40,6 @@
 <br>
 
 <h3>🛠️ Tools</h3>
-
 <a ef="https://www.notion.so/" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </a>
@@ -58,7 +52,7 @@
 <a ef="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </a>
-<br><br>
+<br>
 <a ef="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </a>
@@ -72,18 +66,39 @@
 <br>
 <br>
 
-<h3>🎓 Education</h3>
-- 2022.03 ~ 2026.02 인하대학교 컴퓨터공학과
+<h3>🎓 Education &nbsp; | &nbsp; 🚀 Experience  &nbsp; | &nbsp; 🏆 Awards</h3>
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>활동</th>
+      <th>수상 / 비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2022.03 ~ 2026.02</td>
+      <td>인하대학교 컴퓨터공학과 재학</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.03 ~ 2024.12</td>
+      <td>인하대학교 컴퓨터공학과 42대 학생회 학술국장</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.08.19 ~ 2024.12.06</td>
+      <td>네이버 부스트캠프 웹·모바일 멤버십 9기</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.06.26 ~ 2025.06.27</td>
+      <td>2025 INHA SW NET-ZERO 공통 해커톤</td>
+      <td>우수상 🥈</td>
+    </tr>
+  </tbody>
+</table>
 
-<br>
-<br>
-
-<h3>🚀 Experience</h3>
-- 2024.03 ~ 2024.12 인하대학교 컴퓨터공학과 42대 학생회 학술국장  
-<br>
-- 2024.08 ~ 2024.12 부스트캠프 웹·모바일 멤버십 9기 수료
-
-<br>
 <br>
 
 <h3>📈 GitHub Stats</h3>
@@ -92,9 +107,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=using2&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
 </div>
-
 <br>
-
 <div align="center">
   <a ef="https://github.com/using2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=using2&langs_count=5&layout=compact" alt="Top Languages" />
