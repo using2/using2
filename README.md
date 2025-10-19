@@ -114,6 +114,11 @@
       <td>2025 INHA SW NET-ZERO 공통 해커톤</td>
       <td>우수상 🥈</td>
     </tr>
+    <tr>
+      <td>2025.09 ~ 2026.02</td>
+      <td>UMC 9th Web 시니어 챌린저</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
