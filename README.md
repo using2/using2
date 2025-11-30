@@ -98,6 +98,7 @@
 </a>
 
 <br>
+<br>
 
 <h3>🎓 Education &nbsp; | &nbsp; 🚀 Experience  &nbsp; | &nbsp; 🏆 Awards</h3>
 <table align="center" border="1" cellpadding="10" cellspacing="0">
@@ -133,28 +134,6 @@
 </table>
 
 <br>
-
-<h3>📈 GitHub Stats</h3>
-<div align="center">
-  <a ef="https://github.com/using2">
-    <img src="https://github-readme-stats.vercel.app/api?username=using2&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a ef="https://github.com/using2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=using2&langs_count=5&layout=compact" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-
-<h3>📊 Algorithm</h3>
-<div align="center">
-  <a href="https://solved.ac/rkddbwls/">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rkddbwls" alt="Solved.ac Profile" />
-  </a>
-</div>
 
 </div>
 
