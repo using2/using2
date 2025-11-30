@@ -2,6 +2,23 @@
 
 <h1>🚀 &nbsp;  강유진 &nbsp; | &nbsp; Frontend Developer </h1>
 
+<br>
+
+<h3>📝 Tech Blog & Study Notes</h3>
+<div align="center">
+  <!-- 기술 블로그 -->
+  <a href="https://www.notion.so/using2/2621b5b802128019a974f37fdb951b95" target="_blank">
+    <img src="https://img.shields.io/badge/📝 기술 블로그-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Tech Blog"/>
+  </a>
+  <!-- 부스트캠프 활동 정리 -->
+  <a href="https://www.notion.so/using2/c47a0e1baf104a3ab536605c4337fd9f" target="_blank">
+    <img src="https://img.shields.io/badge/💻 부스트캠프-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Boostcamp Notes"/>
+  </a>
+</div>
+
+<br>
+<br>
+
 <h3><b>💻 Tech Stack</b></h3>
 <a ef="https://react.dev/" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -67,24 +84,19 @@
 </a>
 
 <br>
+<br>
 
-<br>
-<h3>📝 Tech Blog & Study Notes</h3>
-<div align="center">
-  <!-- 기술 블로그 -->
-  <a href="https://www.notion.so/using2/2621b5b802128019a974f37fdb951b95" target="_blank">
-    <img src="https://img.shields.io/badge/📝 기술 블로그-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Tech Blog"/>
-  </a>
-  <!-- 전공 수업 필기 -->
-  <a href="https://www.notion.so/using2/ebfb9705b56e4f78a57611387e3620e8" target="_blank">
-    <img src="https://img.shields.io/badge/📚 전공 필기-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Lecture Notes"/>
-  </a>
-  <!-- 부스트캠프 활동 정리 -->
-  <a href="https://www.notion.so/using2/c47a0e1baf104a3ab536605c4337fd9f" target="_blank">
-    <img src="https://img.shields.io/badge/💻 부스트캠프-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Boostcamp Notes"/>
-  </a>
-</div>
-<br>
+<h3>🛠️ Infra & DevOps</h3>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</a>
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</a>
+
 <br>
 
 <h3>🎓 Education &nbsp; | &nbsp; 🚀 Experience  &nbsp; | &nbsp; 🏆 Awards</h3>
