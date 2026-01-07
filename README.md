@@ -4,6 +4,48 @@
 
 <br>
 
+<h3>🎓 Education &nbsp; | &nbsp; 🚀 Experience  &nbsp; | &nbsp; 🏆 Awards</h3>
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>활동</th>
+      <th>수상 / 비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2022.03 ~ 2026.02</td>
+      <td>인하대학교 컴퓨터공학과 졸업예정</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.03 ~ 2024.12</td>
+      <td>인하대학교 컴퓨터공학과 42대 학생회 학술국장</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2024.08.19 ~ 2024.12.06</td>
+      <td>네이버 부스트캠프 웹·모바일 9기 멤버십 수료</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025.06.26 ~ 2025.06.27</td>
+      <td>2025 INHA SW NET-ZERO 공통 해커톤</td>
+      <td>우수상 🥈</td>
+    </tr>
+    <tr>
+      <td>2025.12.29 ~ 2026.02.27</td>
+      <td>현대자동차그룹 소프티어 부트캠프 7기</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<br>
+
+
 <h3>📝 Tech Blog & Study Notes</h3>
 <div align="center">
   <!-- 기술 블로그 -->
@@ -46,15 +88,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </a>
 <br>
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
-</a>
-<a ef="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</a>
-<a ef="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</a>
 
 <br>
 <br>
@@ -79,9 +112,6 @@
 <a ef="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a ef="https://eslint.org/" target="_blank">
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
-</a>
 
 <br>
 <br>
@@ -96,42 +126,6 @@
 <a href="https://vercel.com/" target="_blank">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </a>
-
-<br>
-<br>
-
-<h3>🎓 Education &nbsp; | &nbsp; 🚀 Experience  &nbsp; | &nbsp; 🏆 Awards</h3>
-<table align="center" border="1" cellpadding="10" cellspacing="0">
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>활동</th>
-      <th>수상 / 비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2022.03 ~ 2026.02</td>
-      <td>인하대학교 컴퓨터공학과 졸업예정</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>2024.03 ~ 2024.12</td>
-      <td>인하대학교 컴퓨터공학과 42대 학생회 학술국장</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>2024.08.19 ~ 2024.12.06</td>
-      <td>네이버 부스트캠프 웹·모바일 9기 수료</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>2025.06.26 ~ 2025.06.27</td>
-      <td>2025 INHA SW NET-ZERO 공통 해커톤</td>
-      <td>우수상 🥈</td>
-    </tr>
-  </tbody>
-</table>
 
 <br>
 
