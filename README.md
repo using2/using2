@@ -4,6 +4,21 @@
 
 <br>
 
+<h3>📝 Tech Blog & Study Notes</h3>
+<div align="center">
+  <!-- 기술 블로그 -->
+  <a href="https://www.notion.so/using2/2621b5b802128019a974f37fdb951b95" target="_blank">
+    <img src="https://img.shields.io/badge/📝 기술 블로그-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Tech Blog"/>
+  </a>
+  <!-- 부스트캠프 활동 정리 -->
+  <a href="https://www.notion.so/using2/c47a0e1baf104a3ab536605c4337fd9f" target="_blank">
+    <img src="https://img.shields.io/badge/💻 부스트캠프-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Boostcamp Notes"/>
+  </a>
+</div>
+
+<br>
+<br>
+
 <h3>🎓 Education &nbsp; | &nbsp; 🚀 Experience  &nbsp; | &nbsp; 🏆 Awards</h3>
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <thead>
@@ -41,22 +56,6 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-<br>
-
-
-<h3>📝 Tech Blog & Study Notes</h3>
-<div align="center">
-  <!-- 기술 블로그 -->
-  <a href="https://www.notion.so/using2/2621b5b802128019a974f37fdb951b95" target="_blank">
-    <img src="https://img.shields.io/badge/📝 기술 블로그-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Tech Blog"/>
-  </a>
-  <!-- 부스트캠프 활동 정리 -->
-  <a href="https://www.notion.so/using2/c47a0e1baf104a3ab536605c4337fd9f" target="_blank">
-    <img src="https://img.shields.io/badge/💻 부스트캠프-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Boostcamp Notes"/>
-  </a>
-</div>
 
 <br>
 <br>
