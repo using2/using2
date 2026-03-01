@@ -6,9 +6,9 @@
 
 <h3>📝 Tech Blog & Study Notes</h3>
 <div align="center">
-  <!-- 기술 블로그 -->
+  <!-- 개발 로그 -->
   <a href="https://www.notion.so/using2/2621b5b802128019a974f37fdb951b95" target="_blank">
-    <img src="https://img.shields.io/badge/📝 기술 블로그-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Tech Blog"/>
+    <img src="https://img.shields.io/badge/📝 개발 로그-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Tech Blog"/>
   </a>
   <!-- 부스트캠프 활동 정리 -->
   <a href="https://www.notion.so/using2/c47a0e1baf104a3ab536605c4337fd9f" target="_blank">
@@ -111,22 +111,6 @@
 <a ef="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<br>
-<br>
-
-<h3>🛠️ Infra & DevOps</h3>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</a>
-<a href="https://github.com/features/actions" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</a>
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</a>
-
-<br>
 
 </div>
 
