@@ -30,7 +30,11 @@
 > 2026.01 ~ 2026.02 · 현대자동차 소프티어 부트캠프 7기  
 > **[GitHub](https://github.com/softeerbootcamp-7th/WEB-Team7-Jackpot)** · **[narratix.site](https://narratix.site)**
 
-**역할** Frontend — 실시간 텍스트 에디터 · 첨삭 기능
+> 일반적인 CRUD 서비스가 아닌,  
+> **브라우저 입력 시스템(contentEditable), React 렌더링,  
+> 실시간 WebSocket 동기화가 동시에 충돌하는 문제를 다룬 프로젝트**
+
+**역할** Frontend — 실시간 텍스트 에디터 및 협업 첨삭 기능 구현
 
 **기술 스택**
 
@@ -48,7 +52,7 @@
   → React state를 단일 진실 원천으로 유지하며,
     리뷰(첨삭) 영역을 포함한 복잡한 DOM 구조에서도
     커서 안정성·입력 동기화·실시간 소켓 이벤트 처리 보장
-- Lighthouse 성능 개선 (Performance 56 → 98)
+- Lighthouse 성능 개선 (Performance 56 → 98, **실서비스 기준**)
 
 **기술 블로그 포스트**
 - **[Vite + Rollup 번들 최적화로 Lighthouse 성능 56 → 98 개선](https://www.notion.so/using2/Softeer-bootcamp-7-Vite-Rollup-Lighthouse-56-98-3121b5b80212806394f8c48262e06c02)**  
@@ -91,3 +95,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<br>
+
+## 🧠 What I Care About
+
+- React 렌더링과 상태 업데이트의 실제 동작 원리
+- 복잡한 UI를 구조로 해결하는 설계
+- 성능 저하의 원인을 추적하고 수치로 개선하는 과정
+- “왜 이렇게 구현했는지” 설명 가능한 코드
