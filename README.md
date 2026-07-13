@@ -62,16 +62,15 @@
 
 ### What I Did
 
-- 실시간 협업 첨삭 기능 구현
-- `contentEditable` 기반 커스텀 텍스트 에디터 개발
-- WebSocket 기반 실시간 상태 동기화
-- Lighthouse Performance **56 → 98** 개선
+- contentEditable 기반 커스텀 텍스트 에디터 설계 및 구현
+- OT 기반 실시간 협업 구조 설계 및 WebSocket 상태 동기화 구현
+- 리뷰 마커 기반 데이터 모델 설계로 리뷰 위치 정합성 개선
+- 코드 스플리팅 전략을 적용해 Lighthouse Performance 56 → 98 개선
 
 ### Tech Blog
 
 - [Vite + Rollup 번들 최적화로 Lighthouse Performance 56 → 98 개선](https://www.notion.so/using2/Softeer-bootcamp-7-Vite-Rollup-Lighthouse-56-98-3121b5b80212806394f8c48262e06c02)
 - [실시간 협업 텍스트 에디터: 동작 흐름 완전 분석](https://www.notion.so/using2/Softeer-bootcamp-7-3131b5b8021280c79fd5c233270cb9e9)
-- [WebSocket 이벤트 상태 반영 설계](https://www.notion.so/using2/Softeer-bootcamp-7-WebSocket-30b1b5b8021280e48bacd7320e849482)
 
 ---
 
