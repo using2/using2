@@ -14,7 +14,7 @@
 
 <br>
 
-[![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/using2/2621b5b802128019a974f37fdb951b95)
+[![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://using6843.tistory.com/)
 [![Boostcamp](https://img.shields.io/badge/💻_Boostcamp-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/using2/c47a0e1baf104a3ab536605c4337fd9f)
 
 </div>
